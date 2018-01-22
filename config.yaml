@@ -1,0 +1,8 @@
+consumer_key: ''
+consumer_secret: ''
+access_token_key: ''
+access_token_secret: ''
+
+# YYYY-MM-DD
+start_date: '2017-12-15'
+last_date: '2018-01-22'
